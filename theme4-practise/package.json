@@ -1,0 +1,25 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "1": "npx ts-node 1.ts",
+    "2": "npx ts-node 2.ts",
+    "3": "npx ts-node 3.ts",
+    "4": "npx ts-node 4.ts",
+    "5": "npx ts-node 5.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/request": "^2.48.8",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "battery-level": "^3.0.0",
+    "request": "^2.88.2",
+    "systeminformation": "^5.17.12"
+  }
+}
