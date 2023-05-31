@@ -1,0 +1,2 @@
+/*
+here scripts from  will be scripts for database init from database.zip*/
